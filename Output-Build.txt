@@ -1,0 +1,4 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: StairCase StringerDesign, Configuration: Debug Any CPU ------
+1>  StairCase StringerDesign -> C:\Users\Ross\source\repos\StairCase StringerDesign\StairCase StringerDesign\bin\Debug\StairCase StringerDesign.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
